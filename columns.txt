@@ -1,0 +1,9 @@
+Client name_Aon Hewitt, Industry_IT Products and Services, Industry_Pharmaceuticals, Location_CHENNAI,Location_Gurgaon, Location_Hyderabad, Location_Noida,cur_location_Noida,cur_location_Hyderabad,cur_location_Gurgaon, job_location_Gurgaon, job_location_Noida
+
+
+Client name_Aon Hewitt,Client name_Hospira,Industry_IT Products and Services,Industry_Pharmaceuticals, Location_CHENNAI,Location_Gurgaon,Location_Hyderabad, Location_Noida,cur_location_Gurgaon,cur_location_Noida	
+
+
+
+
+
